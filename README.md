@@ -8,3 +8,4 @@ Use phpmyadmin to manage it on a xampp environment. Recommended option.
 ## Screenshots
 ![Landing page](https://raw.githubusercontent.com/dnalcudia/pokedex/master/img1.png)
 ![Profile](https://raw.githubusercontent.com/dnalcudia/pokedex/master/img2.png)
+![Home page](https://raw.githubusercontent.com/dnalcudia/pokedex/master/img3.png)
